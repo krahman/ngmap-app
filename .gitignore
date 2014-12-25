@@ -9,3 +9,5 @@ node_modules
 # Ignore app components folder
 app/components
 
+# Ignore webstorm .idea folder
+.idea
