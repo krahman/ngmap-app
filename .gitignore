@@ -1,0 +1,11 @@
+# Ignore node modules folder
+node_modules
+
+# Ignore bower folders
+.bower-cache
+.bower-registry
+.bower-tmp
+
+# Ignore app components folder
+app/components
+
